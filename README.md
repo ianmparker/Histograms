@@ -12,7 +12,7 @@ In digital image processing, a histogram serves as a graphical representation of
 
 For grayscale images, the pixel intensity values range from 0 to 255. The left side of the histogram corresponds to the darker areas (shadows), the middle section represents mid-tone values (grays), and the right-hand side depicts the lighter areas (highlights).
 
-A histogram skewed towards the left indicates an abundance of darker tones, suggesting an underexposed image. Conversely, a histogram leaning towards the right signifies a preponderance of lighter tones, indicative of an overexposed image.
+A histogram skewed towards the left indicates an abundance of darker tones, suggesting an underexposed image. Conversely, a histogram leaning towards the right signifies lighter tones, indicative of an overexposed image.
 
 -----------------------------------------------------------
 # Sample Input
