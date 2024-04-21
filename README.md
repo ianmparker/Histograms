@@ -14,6 +14,10 @@ The left side of the horizontal axis represents the dark areas, the middle repre
 A histogram for a very dark image will have most of its data points on the left side and center of the graph while a histogram for a very bright image (with few dark areas or shadows) will have most of its data points on the right side and center of the graph.
 
 -----------------------------------------------------------
+# Sample Input
+
+![image](https://github.com/ianmparker/Histograms/assets/18231849/44fc74d2-900e-4a73-a883-86c7e1051efb)
+
 # Sample Output
 ![image](https://github.com/ianmparker/Histograms/assets/18231849/30a52041-02d9-4bdc-9b1b-b1a69f87f3fc)
 
